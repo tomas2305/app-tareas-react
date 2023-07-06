@@ -1,0 +1,12 @@
+
+.logo-contenedor{
+    width: 100%;
+    margin: 20px 0px 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo{
+    width: 400px;
+  }
